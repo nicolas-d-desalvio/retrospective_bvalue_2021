@@ -1,5 +1,7 @@
 # retrospective_bvalue_2021
-Code and Data for "A Retrospective Analysis of b-value Changes Preceding Strong Earthquakes" by Nicolas D. DeSalvio and Maxwell L. Rudolph
+Work in Progress
+
+Code and Data for "A Retrospective Analysis of b-value Changes Preceding Strong Earthquakes" by Nicolas D. DeSalvio and Maxwell L. Rudolph (In Review)
 
 primary_code_and_data contains all of the data and code to generate the initial results of the study, including specific scripts to generate Figures 3, 4 and 5.
 
