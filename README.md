@@ -28,4 +28,6 @@ Python Packages Required:
 - pandas
 - tqdm
 - tabulate
+- libcomcat
+- datetime
 - 
