@@ -30,4 +30,4 @@ Python Packages Required:
 - tabulate
 - libcomcat
 - datetime
-- 
+- obspy
