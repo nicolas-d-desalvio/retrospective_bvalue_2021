@@ -12,7 +12,7 @@ Within `primary_code_and_data/`, the `b_output/` folder is currently populated w
 ```
 ├── catalog_creation_code
 │   ├── download_usgs_catalog_with_cmt.ipynb  # Code used to download the entire ComCat catalog and CMT focal mechanisms
-│   ├── update_catalog.ipynb                  # Code used to update the catalog produced by  `download_usgs_catalog_with_cmt.ipynb' for new events, this requires the contents of `usgs_full_catalog_cmt.zip' and `usgs_full_catalog_times_cmt.zip'
+│   ├── update_catalog.ipynb                  # Code used to append the catalog produced by  `download_usgs_catalog_with_cmt.ipynb' with new events, this requires the contents of `usgs_full_catalog_cmt.zip' and `usgs_full_catalog_times_cmt.zip'
 │   ├── usgs_full_catalog_cmt.zip             # Earthquake catalog from ComCat w/ CMT focal mechanisms
 │   ├── usgs_full_catalog_times_cmt.zip       # Earthquake Times
 ├── primary_code_and_data
