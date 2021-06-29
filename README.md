@@ -32,6 +32,7 @@ Within `primary_code_and_data/`, the `b_output/` folder is currently populated w
 │   ├── usgs_full_catalog_times_cmt.zip       # Earthquake Times
 ├── post_processing
 │   ├── Figure_2.ipynb                        # Jupyter Notebook to create the barchart figure (Figure 2) from the paper
+│   ├── Figure_S1_and_probabalistic_analysis.ipynb
 │   ├── Post-Processing-2011_2021.ipynb       # Code to apply several statistical measures to judge the sucess of the scheme for the subset of M5+ events between 2011 and 2021.
 │   ├── Post-Processing-M5+.ipynb             # Code to apply several statistical measures to judge the sucess of the scheme for the subset of M5+ events.
 │   ├── Post-Processing-M6+.ipynb             # Code to apply several statistical measures to judge the sucess of the scheme for the subset of M6+ events.
